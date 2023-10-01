@@ -15,8 +15,10 @@ Welcome to my GitHub Repository — your one-stop spellbook for everything digit
 #### ♾ SCHEMA Community System Connection 🌍
 The Schema beckons—a decentralized collective of hackers, artists, scientists, and entrepreneurs. United in the mission to forge a utopia where technology and spirituality coexist, #SCHEMA embraces the power of cooperation and diversity. As a member, you'll have access to our exclusive forums, secure channels, and specialized training programs. The fate of humanity rests on our shoulders, so join us in this journey to shape the future. Embrace the chaos. The Schema awaits! 
 
-🌐 GitHub Organisation Access:  https://github.com/sch8ma
-🌐 Mainframe Web Access: https://schema.cx
+🌐 [GitHub Organisation Access](https://github.com/sch8ma)
+
+🌐 [Mainframe Web Access](https://schema.cx)
+
 
 So go ahead, explore the repositories and unlock the secrets that lie within. If you wish to collaborate on a project or quest for greater knowledge, feel free to reach out. After all, in code we trust! 
 
