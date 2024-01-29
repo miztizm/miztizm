@@ -13,18 +13,27 @@ Welcome to my GitHub Repository — your mystical spellbook for all things digit
 - 💡 Constantly innovating and unafraid to tread uncharted territories in tech.
 
 #### ♾ SCHEMA Community System Connection 🌍
-The Schema beckons—a decentralized collective of hackers, artists, scientists, and entrepreneurs. United in the mission to forge a utopia where technology and spirituality coexist, #SCHEMA embraces the power of cooperation and diversity. As a member, you'll have access to our exclusive forums, secure channels, and specialized training programs. The fate of humanity rests on our shoulders, so join us in this journey to shape the future. Embrace the chaos. The Schema awaits! After all, in code we trust! 
+    The Schema beckons—a decentralized collective of hackers, artists, scientists, and entrepreneurs. 
+    United in the mission to forge a utopia where technology and spirituality coexist, #SCHEMA embraces
+    the power of cooperation and diversity. As a member, you'll have access to our exclusive forums, 
+    secure channels, and specialized training programs. The fate of humanity rests on our shoulders, 
+    so join us in this journey to shape the future. Embrace the chaos. The Schema awaits! After all, 
+    in code we trust! 
 
-_For access to the Schema Network Git, initiation into the Schema is your key. Once you're part of our collective, the gates to our Git Network will open for you._
+🌟 _For access to the Schema Network Git, initiation into the Schema is your key. Once you're part of our collective, the gates to our Git Network will open for you._
 
-🌐 [GitHub Organisation](https://github.com/sch8ma)
-🌐 [Schema Network Git Access](https://github.com/sch8ma)
 🌐 [Mainframe Web Access](https://schema.cx)
+🌐 [Schema Network Git Access](https://git.schema.cx)
+🌐 [GitHub Organisation](https://github.com/sch8ma)
 
 #### 🌎 Presenting "Utophi" - A Browser Simulation Game 🔥
-On of my latest creation, is "Utophi," is a browser-based game that simulates life in an alternate reality. Each player embarks on a journey within a virtual city inhabited by 40 souls. The ultimate quest? To thrive and outlive in this newfound society.
+![300596430-39aabc20-1aec-4a38-bd28-5db134e0d9e4 1  (1)](https://github.com/miztizm/miztizm/assets/617020/bca6a2e7-799c-4f8e-9a15-1a06522eb2fb)
 
-🌟 We're scouting for curious minds and creative souls to join our mission! Whether you wish to contribute or become a team member, your skills and enthusiasm are the magic we seek. 
+    On of my latest creation, is "Utophi," is a browser-based game that simulates life in an alternate reality.
+    Each player embarks on a journey within a virtual city inhabited by 40 souls. The ultimate quest? To thrive
+    and outlive in this newfound society.
+
+🌟 _We're scouting for curious minds and creative souls to join our mission! Whether you wish to contribute or become a team member, your skills and enthusiasm are the magic we seek._
 
 📮 [Contact on Telegram](https://t.me/subdose)
 
