@@ -26,7 +26,7 @@ Welcome to my GitHub Repository — your mystical spellbook for all things digit
 🌐 [Schema Network Git Access](https://git.schema.cx)
 🌐 [GitHub Organisation](https://github.com/sch8ma)
 
-#### 🌎 Presenting "Utophi" - A Browser Simulation Game 🔥
+#### 🌎 "Utophi" - A Browser Simulation Game 🔥
 ![300596430-39aabc20-1aec-4a38-bd28-5db134e0d9e4 1  (1)](https://github.com/miztizm/miztizm/assets/617020/bca6a2e7-799c-4f8e-9a15-1a06522eb2fb)
 
     On of my latest creation, is "Utophi," is a browser-based game that simulates life in an alternate reality.
