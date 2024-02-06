@@ -20,7 +20,7 @@ $codeCraft = $zenith = 0;
 $heartBeats = (rand(0, 1) === 1); // Life's a coin flip in this coder's matrix
 
 // Lambda for output because why directly echo?
-$shout = fn($msg) => print $msg . "\n";
+$shout = fn($msg) => print $msg . (PHP_SAPI === 'cli' ? "\n" : "<br>");
 
 // 🚀 Artistic elevation, now with anonymous functions.
 while ($codeCraft++ < ($zenith = 10)) {
@@ -45,8 +45,6 @@ $heartBeats ? (function() use ($shout) {
 })() : $shout("RIP Coder. Silence in the codebase.");
 
 // 🕶️ Over-engineered, under-explained.
-?>
-
 ?>
 ```
 
