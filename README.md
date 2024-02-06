@@ -35,5 +35,8 @@ Welcome to my GitHub Repository — your mystical spellbook for all things digit
 
 🌟 _We're scouting for curious minds and creative souls to join our mission! Whether you wish to contribute or become a team member, your skills and enthusiasm are the magic we seek._
 
-📮 [Telegram](https://t.me/subdose)
+📮 [Telegram](https://t.me/subdose)  
+🐦 [Twitter](https://twitter.com/miztizm)  
+🎵 [TikTok](https://www.tiktok.com/@miztizm)  
+▶️ [YouTube](https://www.youtube.com/miztizmo)
 
