@@ -13,7 +13,7 @@ Welcome to my GitHub Repository — your mystical spellbook for all things digit
 - 💡 Constantly innovating and unafraid to tread uncharted territories in tech.
 
 
-```
+```php
 <?php
 // Initialize variables for demonstration
 $codeCraft = 0;
