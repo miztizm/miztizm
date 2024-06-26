@@ -27,7 +27,7 @@ while ($codeCraft++ < ($zenith = 10)) {
     $shout("Enhancing code craft...");
 
     // Conditional execution with ternary & immediate invocation
-    ($codeCraft === $zenith) ? $shout("Mess with the Best, Die like the Rest. Creativity Overload. 🌌") : null;
+    ($codeCraft === $zenith) ? $shout("Mess with the Best, Die like the Rest. 🌌") : null;
 }
 
 // Simulated life cycle in an unnecessarily complex way
