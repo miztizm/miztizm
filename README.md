@@ -7,7 +7,7 @@ Welcome to my GitHub — a laboratory for code, creativity, and technical master
 
 As the founder and architect behind several digital ventures, I bring together full-stack engineering, network infrastructure, cybersecurity, and product design. My work spans from scalable web applications to robust automation and open-source contributions, always guided by a drive for innovation and practical impact.
 
-I am committed to building resilient systems, sharing knowledge, and collaborating with global developers and creators. My expertise covers a broad spectrum — from PHP, Laravel, JavaScript, and React, to advanced Linux administration, network security, and ethical hacking.
+I am committed to building resilient systems, sharing knowledge, and collaborating with global developers and creators. My expertise covers a broad spectrum — from mirc scriping to all the modern reactive family, to advanced Linux administration, network security, and ethical hacking.
 
 ## What You’ll Find Here
 
