@@ -75,6 +75,7 @@ A browser simulation game where players live inside a shared city-scale system: 
 ### 🏴‍☠️ Grabnite — pirate flash-sale marketplace universe
 Daily drops with narrative UX, gamified scarcity, captains/treasures logic.  
 - 🌐 https://grabnite.com
+- 🧬 Org: https://github.com/grabnite  
 
 ---
 
@@ -86,8 +87,8 @@ A social platform with its own tone, rules, and community mechanics.
 
 ## 🧰 Shipped Tools / Store Releases
 
-### 🔖 TidyMark — bookmark organizer + new tab (Chrome)
-- 🧩 Chrome Web Store: https://chromewebstore.google.com/detail/tidymark/kfjmkmodmoabhcmgeojbnjbipgiknfkb
+### 🔖 TidyMark — bookmark organizer
+- 🌐 Website: https://tidymark.com
 
 ### 📝 Nuvopad — Markdown-first notes (Windows)
 - 🪟 Microsoft Store: https://apps.microsoft.com/detail/9p789v7kg3z3
