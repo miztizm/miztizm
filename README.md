@@ -1,92 +1,177 @@
-# miztizm  
-**Founder, Coder, Designer, Musician, Writer, Entrepeneur, Architech**
+# miztizm 🗡️🧠
+**Indie Solo IA Company Founder · Systems Architect · Security-Minded Builder**  
+_Cyber shogun energy. Monk discipline. Shipping > talking._
 
-Welcome to my GitHub — a laboratory for code, creativity, and technical mastery. Here, you’ll find projects at the intersection of software engineering, systems architecture, and digital strategy, crafted to drive meaningful results in a rapidly evolving tech landscape.
+Welcome to my GitHub: not a portfolio, a **workshop**.  
+I build products end-to-end — code, design, infra, automation, security — and I keep them alive.
 
-## Background
-
-As the founder and architect behind several digital ventures, I bring together full-stack engineering, network infrastructure, cybersecurity, and product design. My work spans from scalable web applications to robust automation and open-source contributions, always guided by a drive for innovation and practical impact.
-
-I am committed to building resilient systems, sharing knowledge, and collaborating with global developers and creators. My expertise covers a broad spectrum — from mirc scriping to all the modern reactive family, to advanced Linux administration, network security, and ethical hacking.
-
-## What You’ll Find Here
-
-- **Full-Stack Projects:** End-to-end solutions built with a focus on reliability, scalability, and clean architecture.
-- **Infrastructure & Automation:** Practical tools, scripts, and guides for sysadmins, DevOps, and anyone managing complex digital systems.
-- **Security & Open Source:** Defensive frameworks, penetration testing methodologies, and open knowledge for the next generation of digital builders.
-
-## The miztizm Approach
-
-- **Technical Range:** Full-stack coding, network and systems administration, security research, and creative prototyping.
-- **Entrepreneurial Mindset:** Driving projects from concept to execution, always questioning boundaries and pursuing efficiency.
-- **Community Commitment:** Open-source contributions and practical guides — making advanced tools and methods accessible to all.
-- **Relentless Curiosity:** Exploring new domains, challenging assumptions, and leveraging technology for lasting value.
+If you’re here for “motivational founder quotes,” wrong dojo.  
+If you’re here for **systems that run**, **tools that ship**, and **clean execution under chaos** — welcome.
 
 ---
 
-**Ready to dive deeper? Explore the repositories, fork what you need, and connect for serious collaboration or unconventional challenges.**
+## ⚙️ Sectors / Domains I operate in
 
+### 🧩 Product Engineering (Full-Stack)
+- Web apps, dashboards, realtime UX, multi-tenant patterns
+- Browser extensions, desktop tools, cross-surface UX consistency
+
+### 🎨 Design / UX (Design Systems)
+- UI/UX systems, interactive components, brand language
+- “Feel” matters — speed, clarity, friction control, dopamine control
+
+### 🛰️ Infra / DevOps
+- Linux, deployment pipelines, containers, monitoring, performance tuning
+- Building systems that survive updates, traffic spikes, and human error
+
+### 🛡️ Security (Defensive, threat-aware architecture)
+- Hardening, isolation, least-privilege mindset, auditing
+- I design like things will be attacked — because they will
+
+### 🤖 Automation / RPA Mindset
+- Scripts, bots, pipelines, “do it once then never do it again”
+- Turning repetitive ops into deterministic machines
+
+---
+
+## 🧠 The miztizm doctrine (no BS)
+- **Ship fast, don’t ship fragile**
+- **Design is not decoration — it’s control**
+- **Automation is compassion for your future self**
+- **Security is architecture, not a feature**
+- **The real flex is maintenance**
+
+---
+
+## 🏴‍☠️ Main Projects / Worlds (live + active)
+
+### ♾ SCHEMA — community system / social experiment OS
+Decentralized-minded collective architecture: people, roles, missions, projects, economy, and governance mechanics.
+- 🌐 Main: https://schema.cx  
+- 🌐 Git: https://git.schema.cx  
+- 🧬 Org: https://github.com/sch8ma  
+
+> SCHEMA is a long game. Systems, culture, and tools built to outlast trends.
+
+---
+
+### 🌎 Utophi — collaborative world simulation game
+A browser simulation game where players live inside a shared city-scale system: rules, scarcity, roles, social engineering.
+![Utophi](https://github.com/miztizm/miztizm/assets/617020/bca6a2e7-799c-4f8e-9a15-1a06522eb2fb)
+
+- 🌐 https://utophi.com
+
+---
+
+### 🏴‍☠️ Grabnite — pirate flash-sale marketplace universe
+A daily-drop marketplace with narrative UX, gamified scarcity, and “captains / treasures” logic.
+- 🌐 https://grabnite.com
+
+---
+
+### 🐷 PigKiss — kingdom-style social platform
+A social platform with its own tone, rules, and community mechanics.
+- 🌐 https://pigkiss.com
+
+---
+
+## 🧰 Shipped Tools / Store Releases
+
+### 🔖 TidyMark — bookmark organizer + new tab (Chrome)
+- 🧩 Chrome Web Store: https://chromewebstore.google.com/detail/tidymark/kfjmkmodmoabhcmgeojbnjbipgiknfkb
+
+### 📝 Nuvopad — Markdown-first notes (Windows)
+- 🪟 Microsoft Store: https://apps.microsoft.com/detail/9p789v7kg3z3
+
+### 🌧️ Digital Rain Matrix Screensaver (Windows)
+- 🪟 Microsoft Store: https://apps.microsoft.com/detail/9nd4mdxv97gs
+
+### 🏗️ Cybesis Studios — umbrella / portfolio
+- 🌐 https://www.cybesis.com
+
+---
+
+## 🧪 Open Source (things I actually use / maintain)
+
+- **rapidok** — concurrent TikTok downloader (Python)  
+  https://github.com/miztizm/rapidok
+
+- **farmore** — GitHub backup CLI (Python)  
+  https://github.com/miztizm/farmore
+
+- **obsidian-markdown-visibility** — toggle Markdown syntax markers  
+  https://github.com/miztizm/obsidian-markdown-visibility
+
+---
+
+## 🧬 Stack signals (what shows up a lot)
+- TypeScript, React / Next.js
+- Laravel / Livewire / Alpine
+- Rust (desktop + systems mindset)
+- Python, Go automation
+- SQL, Docker, Linux
+
+I pick stacks like weapons: for **reliability**, **maintainability**, and **shipping pressure** — not fashion.
+
+---
+
+## 🎙️ Side Quests (still serious)
+- **Voiceover Artist**
+- **Musician** 
+- **Writer** 
+- “Monk mode” discipline (training + meditation)
+- Automation obsession (RPA brain)
+
+---
+
+## 🤝 Collaboration
+I’m open to serious collaboration if you’re:
+- building real products
+- security-aware
+- allergic to bullshit
+- comfortable with high standards
+
+If you want to work, bring:
+- a clear goal
+- constraints
+- a timeline
+- and honesty
+
+---
+
+## 📡 Contact / Social
+- 📮 Telegram: https://t.me/subdose
+- 🐦 Twitter/X: https://twitter.com/miztizm
+- 🎵 TikTok: https://www.tiktok.com/@miztizm
+- ▶️ YouTube: https://www.youtube.com/miztizmo
+
+---
+
+## 🪪 “Founder” title — what to put?
+Use what matches your vibe. Options that don’t sound like LinkedIn cosplay:
+
+- **Indie Solo Company Founder / Systems Architect** (best if you own and ship products)
+- **Builder / Architect** (minimal, strong)
+- **Product Engineer** (neutral + credible)
+- **Founder-Engineer** (direct, no fluff)
+
+I’d go with: **Indie Founder / Systems Architect**.
+
+---
 
 ```php
 <?php
-// Initialize with obfuscation for the 'lulz'
-$codeCraft = $zenith = 0;
-$heartBeats = (rand(0, 1) === 1); // Life's a coin flip in this coder's matrix
+// no prophecy. only systems.
+$discipline = true;
+$shipping   = true;
 
-// Lambda for output because why directly echo?
-$shout = fn($msg) => print $msg . (PHP_SAPI === 'cli' ? "\n" : "<br>");
+$dojo = fn($x) => print($x . PHP_EOL);
 
-// 🚀 Artistic elevation, now with anonymous functions.
-while ($codeCraft++ < ($zenith = 10)) {
-    $shout("Enhancing code craft...");
+$dojo("forge > polish");
+$dojo("automation > repetition");
+$dojo("security > regret");
 
-    // Conditional execution with ternary & immediate invocation
-    ($codeCraft === $zenith) ? $shout("Mess with the Best, Die like the Rest. 🌌") : null;
+if ($discipline && $shipping) {
+  $dojo("calm hands. sharp code.");
 }
-
-// Simulated life cycle in an unnecessarily complex way
-$heartBeats ? (function() use ($shout) {
-    // Array of tasks with lambdas because we can
-    $tasks = [
-        'caffeinate' => fn() => $shout("Espresso. Mainlined. ☕"),
-        'dream' => fn() => $shout("Dreaming code, reality snooze. 💤"),
-        'hack' => fn() => $shout("Digital alchemist at work. 💻"),
-        'easterEgg' => fn() => rand(1, 100) === 42 ? $shout("42, universe explained. 🌌") : null,
-    ];
-
-    // Execute all tasks, because why iterate when you can array_walk
-    array_walk($tasks, fn($task) => $task());
-})() : $shout("RIP Coder. Silence in the codebase.");
-
-// 🕶️ Over-engineered, under-explained.
 ?>
-```
-
-#### ♾ SCHEMA Community System Connection 🌍
-    The Schema beckons—a decentralized collective of hackers, artists, scientists, and entrepreneurs. 
-    United in the mission to forge a utopia where technology and spirituality coexist, #SCHEMA embraces
-    the power of cooperation and diversity. As a member, you'll have access to our exclusive forums, 
-    secure channels, and specialized training programs. The fate of humanity rests on our shoulders, 
-    so join us in this journey to shape the future. Embrace the chaos. The Schema awaits! After all, 
-    in code we trust! 
-
-🌟 _For access to the Schema Network Git, initiation into the Schema is your key. Once you're part of our collective, the gates to our Git Network will open for you._
-
-🌐 [Mainframe Web Access](https://schema.cx)
-🌐 [Schema Network Git Access](https://git.schema.cx)
-🌐 [GitHub Organisation](https://github.com/sch8ma)
-
-#### 🌎 "Utophi" - A Browser Simulation Game 🔥
-![300596430-39aabc20-1aec-4a38-bd28-5db134e0d9e4 1  (1)](https://github.com/miztizm/miztizm/assets/617020/bca6a2e7-799c-4f8e-9a15-1a06522eb2fb)
-
-    On of my latest creation, is "Utophi," is a browser-based game that simulates life in an alternate reality.
-    Each player embarks on a journey within a virtual city inhabited by 40 souls. The ultimate quest? To thrive
-    and outlive in this newfound society.
-
-🌟 _We're scouting for curious minds and creative souls to join our mission! Whether you wish to contribute or become a team member, your skills and enthusiasm are the magic we seek._
-
-📮 [Telegram](https://t.me/subdose)
-🐦 [Twitter](https://twitter.com/miztizm)
-🎵 [TikTok](https://www.tiktok.com/@miztizm)
-▶️ [YouTube](https://www.youtube.com/miztizmo)
-
