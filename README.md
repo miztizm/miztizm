@@ -1,6 +1,26 @@
-# miztizm 🗡️🧠  
+
+<!-- ───────────────────────────────────────────────────────────── -->
+<!-- HERO / GLITCH HEADER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=miztizm%20&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=systems%20operator%20%7C%20security-minded%20builder%20%7C%20world%20lore%20shipper&descAlignY=75&descSize=14&color=0:000000,100:111111"
+    alt="header"
+  />
+</p>
+
+<!-- SKILL ICON STRIP (cleaner than 10 badges) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,laravel,rust,py,go,linux,docker,postgres&perline=10" alt="skills" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miztizm&color=grey&style=flat" alt="profile views" />
+</p>
+<!-- ───────────────────────────────────────────────────────────── -->
+
 **Indie Solo IA Company Founder · Systems Architect · Security-Minded Builder**  
-_Cyberpunk operator. Biohacker curious. Shipping > speeches._
+Systems operator. Biohacker curious. Shipping lore worlds.
 
 Welcome to my GitHub: not a portfolio — a **workshop**.  
 I build products end-to-end (code, design, infra, automation, security) and I keep them alive in the wild.
@@ -115,6 +135,11 @@ A social platform with its own tone, rules, and community mechanics.
 ---
 
 ## 🧬 Stack signals (what shows up a lot)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white)
 - TypeScript, React / Next.js  
 - Laravel / Livewire / Alpine  
 - Rust (desktop + systems mindset)  
