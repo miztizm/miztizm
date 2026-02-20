@@ -3,7 +3,7 @@
 <!-- HERO / GLITCH HEADER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=miztizm%20&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=systems%20operator%20%7C%20security-minded%20builder%20%7C%20world%20lore%20shipper&descAlignY=75&descSize=14&color=0:000000,100:111111"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=miztizm%20&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=systems%20operator%20%7C%20security-minded%20builder%20%7C%20world%20lore%20shipper&descAlignY=45&descSize=14&color=0:000000,100:111111&fontAlignY=28"
     alt="header"
   />
 </p>
