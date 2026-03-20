@@ -22,7 +22,7 @@
 **Indie Solo IA Company Founder · Systems Architect · Security-Minded Builder**  
 Systems operator. Biohacker curious. Shipping lore worlds.
 
-Welcome to my GitHub: not a portfolio — a **workshop**.  
+Welcome to my GitHub **workshop**: 🧵 Not vibe-coded. ⚒️ Forge-coded!
 I build products end-to-end (code, design, infra, automation, security) and I keep them alive in the wild.
 
 If you’re here for motivational founder quotes, wrong dojo.  
