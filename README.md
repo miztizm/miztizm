@@ -19,7 +19,7 @@
 </p>
 <!-- ───────────────────────────────────────────────────────────── -->
 
-**Indie Solo IA Company Founder · Systems Architect · Security-Minded Builder**  
+**Solo IA Company Founder · Systems Architect · Security-Minded Builder**  
 Systems operator. Biohacker curious. Shipping lore worlds.
 
 Welcome to my GitHub **workshop**: Not vibe-coded. Forge-coded!  
