@@ -175,7 +175,7 @@ If you want to work, bring:
 ---
 
 ## 📡 Contact / Social
-- 📮 Telegram: https://t.me/subdose  
+- 📮 Telegram: https://t.me/lanbird  
 - 🐦 Twitter/X: https://twitter.com/miztizm  
 - 🎵 TikTok: https://www.tiktok.com/@miztizm  
 - ▶️ YouTube: https://www.youtube.com/miztizmo  
