@@ -22,191 +22,108 @@
 **Solo IA Company Founder · Systems Architect · Security-Minded Builder**  
 Systems operator. Biohacker curious. Shipping lore worlds.
 
-Welcome to my GitHub **workshop**: Not vibe-coded. Forge-coded!  
-I build products end-to-end (code, design, infra, automation, security) and I keep them alive in the wild.
+# miztizm
 
-If you’re here for motivational founder quotes, wrong dojo.  
-If you’re here for **systems that run**, **tools that ship**, and **ideas forged under chaos** — welcome.
+I build products end to end.
 
----
+Most of what I do sits somewhere between **product engineering**, **systems architecture**, **design**, **automation**, and **analytic security**. I like tools that are clear, durable, and useful . I care about whether something still works when people actually depend on it.
 
-## ⚙️ Sectors / Domains I operate in
+I’m a **solo founder and architecht*. I design the interface, write the code, handle the infrastructure, automate the repetitive parts, and keep the whole thing running and evolving. That means I’m involved in the full lifecycle, not just the launch.
 
-### 🧩 Product Engineering (Full-Stack)
-- Web apps, dashboards, realtime UX, multi-tenant patterns  
-- Browser extensions, desktop tools, cross-surface UX consistency
+This GitHub is where that work lives (public). Some of it is product code. Some of it is experiments. Some of it is infrastructure thinking turned into actual systems. None of it is here to look busy.
 
-### 🎨 Design / UX (Design Systems)
-- UI/UX systems, components, brand language  
-- “Feel” matters: speed, clarity, friction control, dopamine control
+## What I work on
 
-### 🛰️ Infra / DevOps
-- Linux, deployment pipelines, containers, monitoring, performance tuning  
-- Systems that survive updates, traffic spikes, and human error
+I build **web apps**, **internal systems**, **desktop tools**, **browser-based products**, and **world-driven software projects** with a strong identity. I care about systems that hold up over time: good UX, clean architecture, sane automation, security and community with thematic branding, that is built in early instead of later.
 
-### 🛡️ Security (Defensive, threat-aware architecture)
-- Hardening, isolation, least-privilege mindset, auditing  
-- I design like things will be attacked — because they will
+My stack changes depending on the problem, but the rule is always the same: choose what is **reliable**, **maintainable**, and **fast enough to ship without becoming future debt**.
 
-### 🤖 Automation / RPA Mindset
-- Scripts, bots, pipelines, “do it once then never do it again”  
-- Turning repetition into deterministic machines
+## How I think
 
----
+I move fast, but I don’t like fragile work.  
+I care about design, but not as decoration. It’s about clarity, friction, and control.  
+I automate aggressively because repetition usually means the system is unfinished.  
+I assume things can break, be misused, or be attacked, so I build with that in mind.  
+And yes, maintenance matters. Launch is easy to romanticize. Keeping something useful alive is the real work.
 
-## 🧠 The miztizm doctrine (no BS)
-- **Ship fast, don’t ship fragile**
-- **Design is not decoration — it’s control**
-- **Automation is compassion for your future self**
-- **Security is architecture, not a feature**
-- **The real flex is maintenance**
+## Main projects
 
----
+### Cybesis Studios
+Umbrella / portfolio.  
+https://www.cybesis.com
 
-## 🧬 Chaos vs Discipline
-I’m not a perfect monk-machine. I’m closer to **cyberpunk chaos with a training routine**.
+### Grabnite (beta)
+A pirate-themed flash-sale marketplace with daily drops, narrative UX, and gamified product logic.  
+https://grabnite.com  
+https://github.com/grabnite
 
-- Some weeks: pure flow state, midnight builds, war-room energy  
-- Other weeks: I reset with **fasting, training, meditation, biohacking experiments**   
-- I use structure when it helps, and I break structure when exploration wins
-
-Call it **controlled madness**: enough order to ship, enough chaos to evolve.
-
----
-
-## 🏴‍☠️ Main Projects / Worlds (live + active)
-
-### ♾ SCHEMA — community system / social experiment OS
-Decentralized-minded collective architecture: people, roles, missions, projects, economy, governance mechanics.  
-- 🌐 Main: https://schema.cx  
-- 🌐 Git: https://git.schema.cx  
-- 🧬 Org: https://github.com/sch8ma  
-
-> SCHEMA is a long game: systems + culture built to outlast trends.
-
----
-
-### 🌎 Utophi — collaborative world simulation game
-A browser simulation game where players live inside a shared city-scale system: rules, scarcity, roles, social engineering.  
-- 🌐 https://utophi.com
-
----
-
-### 🏴‍☠️ Grabnite — pirate flash-sale marketplace universe
-Daily drops with narrative UX, gamified scarcity, captains/treasures logic.  
-- 🌐 https://grabnite.com
-- 🧬 Org: https://github.com/grabnite  
-
----
-
-### 🐷 PigKiss — kingdom-style social platform
+### PigKiss (released)
 A social platform with its own tone, rules, and community mechanics.  
-- 🌐 https://pigkiss.com
+https://pigkiss.com
 
----
+## Shipped tools
 
-## 🧰 Shipped Tools / Store Releases
+### TidyMark (released)
+Bookmark organizer.  
+https://tidymark.com
 
-### 🔖 TidyMark — bookmark organizer
-- 🌐 Website: https://tidymark.com
+### Nuvopad (released)
+Markdown-first notes app for Windows.  
+https://apps.microsoft.com/detail/9p789v7kg3z3
 
-### 📝 Nuvopad — Markdown-first notes (Windows)
-- 🪟 Microsoft Store: https://apps.microsoft.com/detail/9p789v7kg3z3
+### Digital Rain Matrix Screensaver (released)
+Windows screensaver.  
+https://apps.microsoft.com/detail/9nd4mdxv97gs
 
-### 🌧️ Digital Rain Matrix Screensaver (Windows)
-- 🪟 Microsoft Store: https://apps.microsoft.com/detail/9nd4mdxv97gs
+## Open source
 
-### 🏗️ Cybesis Studios — umbrella / portfolio
-- 🌐 https://www.cybesis.com
+### NAVIG
+Open-source operator system for infrastructure, automation, remote execution, and AI-assisted workflows. Built for people who want direct control, less dashboard clutter, and systems that actually hold together under pressure.  
+https://navig.run  
+https://github.com/navig-run/core
 
----
+### rapidok
+Concurrent TikTok downloader in Python.  
+https://github.com/miztizm/rapidok
 
-## 🧪 Open Source (things I actually use / maintain)
+### farmore
+GitHub backup CLI in Python.  
+https://github.com/miztizm/farmore
 
-- **rapidok** — concurrent TikTok downloader (Python)  
-  https://github.com/miztizm/rapidok
+## What shows up a lot in my work
 
-- **farmore** — GitHub backup CLI (Python)  
-  https://github.com/miztizm/farmore
+**TypeScript**, **React**, **Next.js**, **Laravel**, **Livewire**, **Alpine**, **Rust**, **Python**, **Go**, **SQL**, **Docker**, **Linux**.
 
-- **obsidian-markdown-visibility** — toggle Markdown syntax markers  
-  https://github.com/miztizm/obsidian-markdown-visibility
+Also: infrastructure, automation, defensive security, product architecture, design systems, realtime UX, multi-tenant apps, browser extensions, and desktop tooling.
 
----
+I don’t choose tools because they are fashionable. I choose them based on pressure, longevity, and the kind of mess they create six months later.
 
-## 🧬 Stack signals (what shows up a lot)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?logo=laravel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white)
-- TypeScript, React / Next.js  
-- Laravel / Livewire / Alpine  
-- Rust (desktop + systems mindset)  
-- Python, Go automation  
-- SQL, Docker, Linux  
+## Outside the obvious
 
-I pick stacks like weapons: **reliability**, **maintainability**, **shipping pressure** — not fashion.
+I also work with **writing**, **music**, **voice**, and **worldbuilding**. That side of my brain leaks into the products, which is probably why even the tools tend to have a point of view.
 
----
+## Collaboration
 
-## 🎙️ Side Quests (still serious)
-- **Voiceover Artist**  
-- **Musician**  
-- **Writer**  
-- Biohacking curiosity (fasting / protocol experiments)  
-- Automation obsession (RPA brain)
+I’m open to working with people who are serious about what they’re building: clear goals, real constraints, honest timelines. No theater, no fake founder mythology, no pretending chaos is a process.
 
----
+If you care about good systems, sharp execution, and building things that survive contact with reality, we’ll probably get along.
 
-## 🤝 Collaboration
-I’m open to serious collaboration if you’re:
-- building real products  
-- security-aware  
-- allergic to bullshit  
-- comfortable with high standards  
+## Contact
 
-If you want to work, bring:
-- a clear goal  
-- constraints  
-- a timeline  
-- and honesty  
+**Telegram**  
+https://t.me/lanbird
 
----
+**X **  
+https://x.com/miztizm
 
-## 📡 Contact / Social
-- 📮 Telegram: https://t.me/lanbird  
-- 🐦 Twitter/X: https://twitter.com/miztizm  
-- 🎵 TikTok: https://www.tiktok.com/@miztizm  
-- ▶️ YouTube: https://www.youtube.com/miztizmo  
+**TikTok**  
+https://www.tiktok.com/@miztizm
 
----
-
-## 🪪 “Founder” title — what to put?
-Options that don’t sound like LinkedIn cosplay:
-
-- **Indie Solo Founder / Systems Architect**  
-- **Founder-Engineer**  
-- **Builder / Architect**  
-- **Product Engineer**  
-
-I’d go with: **Indie Solo Founder / Systems Architect**.
-
+**YouTube**  
+https://www.youtube.com/miztizmo
 ---
 
 ```php
 <?php
 // not a monk. not a machine. just a builder with a kill switch.
-$chaos      = true;
-$structure  = (rand(0, 1) === 1);
-$shipping   = true;
-
-$emit = fn($x) => print($x . PHP_EOL);
-
-$emit("build > talk");
-$emit("security > regret");
-$emit("automation > repetition");
-
-if ($chaos && $structure) $emit("controlled instability.");
-if ($chaos && $shipping)  $emit("cyberpunk mode: ON.");
 ?>
