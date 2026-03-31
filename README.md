@@ -48,47 +48,37 @@ And yes, maintenance matters. Launch is easy to romanticize. Keeping something u
 
 ## Main projects
 
-### Cybesis Studios
-Umbrella / portfolio.  
-https://www.cybesis.com
+### [Cybesis Studios](https://www.cybesis.com)
+Umbrella / portfolio.
 
-### Grabnite (beta)
+### [Grabnite](https://grabnite.com)
 A pirate-themed flash-sale marketplace with daily drops, narrative UX, and gamified product logic.  
-https://grabnite.com  
-https://github.com/grabnite
 
-### PigKiss (released)
-A social platform with its own tone, rules, and community mechanics.  
-https://pigkiss.com
+### [PigKiss](https://pigkiss.com)
+A social platform with its own tone, rules, and community mechanics.
 
-## Shipped tools
+## Shipped projects
 
-### TidyMark (released)
-Bookmark organizer.  
-https://tidymark.com
+### [TidyMark](https://tidymark.com)
+Bookmark AI organizer.
 
-### Nuvopad (released)
-Markdown-first notes app for Windows.  
-https://apps.microsoft.com/detail/9p789v7kg3z3
+### [Nuvopad (released)](https://apps.microsoft.com/detail/9p789v7kg3z3)
+Markdown-first notes app for Windows.
 
-### Digital Rain Matrix Screensaver (released)
-Windows screensaver.  
-https://apps.microsoft.com/detail/9nd4mdxv97gs
+### [Digital Rain Matrix Screensaver (released)](https://apps.microsoft.com/detail/9nd4mdxv97gs)
+Windows screensaver.
 
 ## Open source
 
-### NAVIG
+### [NAVIG](https://navig.run)
 Open-source operator system for infrastructure, automation, remote execution, and AI-assisted workflows. Built for people who want direct control, less dashboard clutter, and systems that actually hold together under pressure.  
-https://navig.run  
-https://github.com/navig-run/core
+[GitHub](https://github.com/navig-run/core)
 
-### rapidok
-Concurrent TikTok downloader in Python.  
-https://github.com/miztizm/rapidok
+### [rapidok](https://github.com/miztizm/rapidok)
+Concurrent TikTok downloader in Python.
 
-### farmore
-GitHub backup CLI in Python.  
-https://github.com/miztizm/farmore
+### [farmore](https://github.com/miztizm/farmore)
+GitHub backup CLI in Python.
 
 ## What shows up a lot in my work
 
