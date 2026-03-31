@@ -71,8 +71,7 @@ Windows screensaver.
 ## Open source
 
 ### [NAVIG](https://navig.run)
-Open-source operator system for infrastructure, automation, remote execution, and AI-assisted workflows. Built for people who want direct control, less dashboard clutter, and systems that actually hold together under pressure.  
-[GitHub](https://github.com/navig-run/core)
+Open-source operator system for infrastructure, automation, remote execution, and AI-assisted workflows. Built for people who want direct control, less dashboard clutter, and systems that actually hold together under pressure. 
 
 ### [rapidok](https://github.com/miztizm/rapidok)
 Concurrent TikTok downloader in Python.
