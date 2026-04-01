@@ -99,17 +99,10 @@ If you care about good systems, sharp execution, and building things that surviv
 
 ## Contact
 
-**Telegram**  
-https://t.me/lanbird
-
-**X **  
-https://x.com/miztizm
-
-**TikTok**  
-https://www.tiktok.com/@miztizm
-
-**YouTube**  
-https://www.youtube.com/miztizmo
+> **Telegram:** [@lanbird](https://t.me/lanbird)  
+> **X (Twitter):** [@miztizm](https://x.com/miztizm)  
+> **TikTok:** [@miztizm](https://www.tiktok.com/@miztizm)  
+> **YouTube:** [@miztizmo](https://www.youtube.com/miztizmo)
 ---
 
 ```php
