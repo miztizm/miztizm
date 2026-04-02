@@ -3,7 +3,7 @@
 <!-- HERO / GLITCH HEADER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=miztizm%20&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=systems%20operator%20%7C%20security-minded%20builder%20%7C%20world%20lore%20shipper&descAlignY=45&descSize=14&color=0:000000,100:111111&fontAlignY=28"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=miztizm%20&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Solo%20Founder%20·%20Systems%20Architect%20·%20Systems%20operator&descAlignY=45&descSize=14&color=0:000000,100:111111&fontAlignY=28"
     alt="header"
   />
 </p>
@@ -19,7 +19,6 @@
 </p>
 <!-- ───────────────────────────────────────────────────────────── -->
 
-#  Solo Founder · Systems Architect · Systems operator
 
 I build products end to end and shipping lore worlds.
 
