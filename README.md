@@ -19,12 +19,9 @@
 </p>
 <!-- ───────────────────────────────────────────────────────────── -->
 
-**Solo IA Company Founder · Systems Architect · Security-Minded Builder**  
-Systems operator. Biohacker curious. Shipping lore worlds.
+#  Solo Founder · Systems Architect · Systems operator
 
-# miztizm
-
-I build products end to end.
+I build products end to end and shipping lore worlds.
 
 Most of what I do sits somewhere between **product engineering**, **systems architecture**, **design**, **automation**, and **analytic security**. I like tools that are clear, durable, and useful . I care about whether something still works when people actually depend on it.
 
