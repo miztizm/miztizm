@@ -102,6 +102,4 @@ If you care about good systems, sharp execution, and building things that surviv
 ---
 
 ```php
-<?php
 // not a monk. not a machine. just a builder with a kill switch.
-?>
